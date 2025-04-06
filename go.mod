@@ -1,4 +1,4 @@
-module github.com/whitebit-exchange/go-sdk
+module github.com/CreditWorthy/go-sdk
 
 go 1.18
 
