@@ -21,6 +21,7 @@ type OrderHistory struct {
 	DealFee       string  `json:"dealFee"`
 	DealStock     string  `json:"dealStock"`
 	DealMoney     string  `json:"dealMoney"`
+	Status string `json:"status"`
 }
 
 type historyEndpoint struct {
